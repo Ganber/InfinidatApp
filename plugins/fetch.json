@@ -1,0 +1,18 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1.2.2"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com-intel-security-cordova-plugin": {
+        "source": {
+            "type": "registry",
+            "id": "com-intel-security-cordova-plugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
